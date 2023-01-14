@@ -1,0 +1,70 @@
+.headline {
+    font-size: 30px;
+    background-color: black;
+    margin-top: -0.3%;
+    padding: 0.5% 0%;
+    position: relative;
+    position: center;
+    text-align: center;
+    color: white;
+    font-family: Bahnschrift SemiBold;
+
+}
+
+.thd {
+    size: 30%;
+    top: 113%;
+    left: 30%;
+    position: absolute;
+}
+
+.background {
+
+    margin-top: -5%;
+
+}
+
+.wild {
+    margin-top: 0%;
+    margin-left: 69.5%;
+    position: absolute;
+
+}
+
+.tbg {
+    margin-top: -5%;
+    position: absolute;
+
+}
+
+.thresh {
+    margin-left: 15%;
+    margin-top: -5%;
+    position: absolute;
+}
+
+.bio {
+    padding: 0% 20%;
+    font-size: 20px;
+    color: white;
+    margin-top: -110%;
+    position: center;
+    text-align: center;
+    font-family: Bahnschrift SemiBold;
+    position: absolute;
+}
+
+.video {
+    margin-top: -43%;
+    margin-left: 25%;
+    position: absolute;
+
+}
+
+.footer {
+    color: white;
+    margin-top: -5%;
+    margin-left: 38%;
+    font-size: 20px;
+    font-family: Bahnschrift thin;
+}
